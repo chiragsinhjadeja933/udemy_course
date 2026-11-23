@@ -22,16 +22,16 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyC95FiNMs86RftMd4TbeCP5DijtVkUz6YE',
     appId: '1:597178090434:web:f096fd36ada48149aecc5b',
     messagingSenderId: '597178090434',
-    projectId: 'udemy-users-92400133057',
-    authDomain: 'udemy-users-92400133057.firebaseapp.com',
-    storageBucket: 'udemy-users-92400133057.firebasestorage.app',
+    projectId: 'udemy-users-92400133075',
+    authDomain: 'udemy-users-92400133075.firebaseapp.com',
+    storageBucket: 'udemy-users-92400133075.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCba7KjY-youu-BKy8AiTAdL0F5zTP8Ukk',
     appId: '1:597178090434:android:1cd381c707527505aecc5b',
     messagingSenderId: '597178090434',
-    projectId: 'udemy-users-92400133057',
-    storageBucket: 'udemy-users-92400133057.firebasestorage.app',
+    projectId: 'udemy-users-92400133075',
+    storageBucket: 'udemy-users-92400133075.firebasestorage.app',
   );
 }
